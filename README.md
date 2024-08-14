@@ -3,9 +3,13 @@
   
   https://hub.docker.com/repository/docker/dckbrz/custom-nginx/general
 
+  
+
 задание 2
 
   ![netology](https://github.com/user-attachments/assets/17e5b0c8-290e-4215-9e75-9052034a9fa3)
+
+  
 
 задание 3
   
@@ -31,9 +35,13 @@
   
   docker rm -f custom-nginx-t2
 
+  
+
 задание 4
   
   ![task4](https://github.com/user-attachments/assets/b4c0ccf0-a35d-4aff-aac4-a8f3997c9b05)
+
+  
 
 задание 5
 
