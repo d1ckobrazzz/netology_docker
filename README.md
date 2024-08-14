@@ -67,10 +67,10 @@
   ![task5_6](https://github.com/user-attachments/assets/32f6a15e-7123-4add-ade5-17335cb59698)
   
   
-  ###7
+  ### 7
 
   ![task5_7](https://github.com/user-attachments/assets/1274abc0-edc6-49eb-ae7b-25c379e295ee)
 
   compose нашел для данного проекта бесхозный контейнер с портейнером и предложил его зачистить в виду того изменился манифест. compose.yaml(предпочтительный) был переименован в compose.yaml.bak, в котором был инклюд docker-compose.yaml, тем самым остался только последний
-  ### 
+  ### команда для остановки проекта
     docker compose down
