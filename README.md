@@ -1,17 +1,17 @@
 # netology_docker
-задание 1
+**задание 1**
   
   https://hub.docker.com/repository/docker/dckbrz/custom-nginx/general
 
   
 
-задание 2
+**задание 2**
 
   ![netology](https://github.com/user-attachments/assets/17e5b0c8-290e-4215-9e75-9052034a9fa3)
 
   
 
-задание 3
+**задание 3**
   
   1-3
 
@@ -37,13 +37,13 @@
 
   
 
-задание 4
+**задание 4**
   
   ![task4](https://github.com/user-attachments/assets/b4c0ccf0-a35d-4aff-aac4-a8f3997c9b05)
 
   
 
-задание 5
+**задание 5**
 
   1
     compose допускает несколько названий конфигурационных файлов, compose.yaml является предпочтительным в случае наличия нескольких файлов описаний
