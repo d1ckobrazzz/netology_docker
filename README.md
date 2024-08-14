@@ -36,8 +36,10 @@
   ![task4](https://github.com/user-attachments/assets/b4c0ccf0-a35d-4aff-aac4-a8f3997c9b05)
 
 задание 5
+
   1
     compose допускает несколько названий конфигурационных файлов, compose.yaml является предпочтительным в случае наличия нескольких файлов описаний
+    
   2
     include:
     - docker-compose.yaml #subtask 2
