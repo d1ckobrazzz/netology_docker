@@ -62,4 +62,5 @@
   ### 6
     
   ![task5_6](https://github.com/user-attachments/assets/32f6a15e-7123-4add-ade5-17335cb59698)
-    
+  
+  ![task5_6_1](https://github.com/user-attachments/assets/402de32f-747c-4a19-81a1-994e93e15c2d)
