@@ -52,7 +52,7 @@
     
   ### 2
     include:
-    - docker-compose.yaml ##subtask 2
+    - docker-compose.yaml #subtask 2
   
   ![task5](https://github.com/user-attachments/assets/40d2a09a-4ae8-4a7f-867b-c74001829ac9)
     
